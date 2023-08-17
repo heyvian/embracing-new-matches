@@ -1,6 +1,6 @@
-# Embracing
-# New
-# Matches
+__Embracing__  
+__New__  
+__Matches__  
 
 An interactive projection about making new connections. 
 
